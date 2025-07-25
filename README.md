@@ -4,7 +4,7 @@
 
 > Romera-Paredes, B. et al. Mathematical discoveries from program search with large language models. _Nature_ (2023)
 
-本项目是基于 [Google DeepMind 的 FunSearch](https://github.com/google-deepmind/funsearch/blob/main/bin_packing/bin_packing.ipynb) 进行修改和完善的版本，原始代码不完整，缺少沙盒内部运行和调用大模型的函数。本仓库是由 [@YuanTian-SJTU](https://github.com/YuanTian-SJTU/Deepmind-Nature-Repro-FunSearch.git) 完成的可运行版本。
+本项目是基于 [Google DeepMind 的 FunSearch](https://github.com/google-deepmind/funsearch/blob/main/bin_packing/bin_packing.ipynb) 进行修改和完善的版本，原始代码不完整，缺少沙盒内部运行和调用大模型的函数。本仓库是由上海交通大学DSSTL实验室完成的可运行版本。
 
 ## 安装和要求
 
